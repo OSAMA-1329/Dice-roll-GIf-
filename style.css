@@ -1,0 +1,43 @@
+body {
+    background-color: pink;
+
+}
+
+h1  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+img {
+
+    height: 30vh;
+    width: 30vh;
+    margin: 50px 100px 10px 580px;
+
+
+}
+
+button {
+
+    margin: 25px 100px 100px 620px;
+    padding: 1em 3em 1em 3em ;
+    
+ 
+
+}
+#result{
+    display: flex;
+    justify-content: center;
+    
+
+}
